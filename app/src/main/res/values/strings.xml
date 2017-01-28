@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">またアイス食べてる</string>
+    <string name="twitter_callback_url">pipikapu://twitter</string>
+    <string name="twitter_consumer_key">9YUCIRyxkwi3PNRe2DH4lNz36</string>
+    <string name="twitter_consumer_secret">hoGRPS7DdhKTzVlrRTqCRlaNsleZsWBCtTLKI79BXICzSSlrou</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6499718883596270/2996604140</string>
+</resources>
